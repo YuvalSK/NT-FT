@@ -3,7 +3,7 @@
 The Gonda Multidisciplinary Brain Research Center at BIU 
 https://gondabrain.biu.ac.il/en  
 
-Check out our Framework via a simple illustration of our analysis (Framework_simulation.ipynb)
+Check out the proposed framework via a simple illustration of our analysis
 
 Features we used:
 degrees_in
@@ -13,4 +13,4 @@ bfs_moments_1
 bfs_moments_2
 closeness
 kcore
-motifs_3
+motifs_3 variations
