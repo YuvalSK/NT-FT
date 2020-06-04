@@ -14,3 +14,10 @@ bfs_moments_2
 closeness
 kcore
 motifs_3 variations
+
+Algorithms we used:
+*PCA
+*KMeans
+*Hierarchical clustering
+*DBSCAN
+
