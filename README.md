@@ -16,7 +16,7 @@ kcore
 motifs_3 variations
 
 Algorithms we used:
-*PCA
+*PCA - for DR
 *KMeans
 *Hierarchical clustering
 *DBSCAN
